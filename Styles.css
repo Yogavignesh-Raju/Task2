@@ -45,7 +45,7 @@ nav{
     
 }
 .page2{
-    background: linear-gradient(#F0F3FF,#D9ECFF);
+    background: linear-gradient(to bottom, #ffffff,#D9ECFF);
     width: 100%;
     height: 200vh;
 }
